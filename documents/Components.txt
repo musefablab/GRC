@@ -1,0 +1,10 @@
+ 
+Elenco componenti acquistati per ogni cravatta:
+
+1	Arduino lilypad:	https://www.sparkfun.com/products/9266
+3	Led verdi:		https://www.sparkfun.com/products/10046
+3	Led rossi:		https://www.sparkfun.com/products/10044
+3	Led gialli:		https://www.sparkfun.com/products/10047
+1	Microfono:		https://www.sparkfun.com/products/9964
+1	Filo conduttivo:	https://www.sparkfun.com/products/10867
+1	Batteria:		https://www.sparkfun.com/products/339 
